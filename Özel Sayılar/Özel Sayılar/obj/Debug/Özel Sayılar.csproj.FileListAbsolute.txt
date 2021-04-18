@@ -1,0 +1,10 @@
+C:\Users\Hilal\source\repos\Özel Sayılar\Özel Sayılar\bin\Debug\Özel Sayılar.exe.config
+C:\Users\Hilal\source\repos\Özel Sayılar\Özel Sayılar\bin\Debug\Özel Sayılar.exe
+C:\Users\Hilal\source\repos\Özel Sayılar\Özel Sayılar\bin\Debug\Özel Sayılar.pdb
+C:\Users\Hilal\source\repos\Özel Sayılar\Özel Sayılar\obj\Debug\Özel Sayılar.csprojAssemblyReference.cache
+C:\Users\Hilal\source\repos\Özel Sayılar\Özel Sayılar\obj\Debug\Özel_Sayılar.Form1.resources
+C:\Users\Hilal\source\repos\Özel Sayılar\Özel Sayılar\obj\Debug\Özel_Sayılar.Properties.Resources.resources
+C:\Users\Hilal\source\repos\Özel Sayılar\Özel Sayılar\obj\Debug\Özel Sayılar.csproj.GenerateResource.cache
+C:\Users\Hilal\source\repos\Özel Sayılar\Özel Sayılar\obj\Debug\Özel Sayılar.csproj.CoreCompileInputs.cache
+C:\Users\Hilal\source\repos\Özel Sayılar\Özel Sayılar\obj\Debug\Özel Sayılar.exe
+C:\Users\Hilal\source\repos\Özel Sayılar\Özel Sayılar\obj\Debug\Özel Sayılar.pdb
